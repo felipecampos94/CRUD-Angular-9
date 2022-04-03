@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": "1.99"
+    },
+    {
+      "id": 2,
+      "name": "Mouse Multilaser",
+      "price": 49.9
+    },
+    {
+      "id": 3,
+      "name": "Notebook Acer",
+      "price": 5999
+    },
+    {
+      "id": 4,
+      "name": "Tinta Guache",
+      "price": 4.99
+    }
+  ]
+}
